@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "mongodb+srv://apibooks-mkjpw.mongodb.net/test",
+    "port": 27017,
+    "url": "mongodb+srv://newUser:newUser@apibooks-mkjpw.mongodb.net/test?retryWrites=true&w=majority",
+    "database": "apibooks",
+    "password": "newUser",
+    "name": "db",
+    "user": "newUser",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
